@@ -36,5 +36,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 # Rising specific prop overrides
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    RISING_CHIPSET="Mtk 7020" \
-    RISING_MAINTAINER="Ayan"
+    RisingChipset="Dimensity 7020" \
+    RisingMaintainer="Ayan"
